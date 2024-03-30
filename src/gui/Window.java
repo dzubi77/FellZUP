@@ -32,7 +32,7 @@ public class Window extends JFrame {
 
     public Window() {
         super();
-        this.setTitle("FellZUP");
+        this.setTitle("FellZUP v1.1");
         this.setContentPane(this.mainPanel);
         this.setSize(1200, 1000);
         this.initMenus();
